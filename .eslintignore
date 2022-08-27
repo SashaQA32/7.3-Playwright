@@ -1,0 +1,5 @@
+node_modules
+/.vscode
+/.git
+playwright.config.js
+example.spec.js
